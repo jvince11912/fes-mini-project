@@ -38,7 +38,7 @@ figure > img {
 nav {
  height: 60px;
  display: flex;
- justify-items: space-between;
+ justify-content: space-between;
  align-items: center;
  padding: 8px 24px 12px;
  background-color: white;
